@@ -1,0 +1,11 @@
+li{
+  border: 4px solid blue;
+}
+
+#selector{
+  background: red;
+}
+
+.underline{
+  text-decoration: underline;
+}

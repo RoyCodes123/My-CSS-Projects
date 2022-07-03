@@ -1,0 +1,11 @@
+.container{
+  border: 3px solid blue;
+  display: grid;
+  grid-template:1fr 2fr 1fr / 1fr 2fr 2fr 1fr;
+}
+
+.item{
+  background-color: orange;
+  border: 2px solid red;
+
+}

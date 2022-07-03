@@ -1,0 +1,12 @@
+h1{
+  background-color: rgb(255,80,80);
+  border-width: 5px;
+  border-style: solid;
+  border-color: blue;
+}
+
+body{
+  background: url(https://images.pexels.com/photos/1001682/pexels-photo-1001682.jpeg?cs=srgb&dl=pexels-kellie-churchman-1001682.jpg&fm=jpg);
+  background-repeat:no-repeat;
+  background-size: cover;
+}
